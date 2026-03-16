@@ -2,6 +2,10 @@
 
 [English](README.md) | [中文](README_CN.md)
 
+<p align="center">
+  <img src="fig/banner_en.png" alt="Awesome Auto Research" width="800">
+</p>
+
 > 🤖 A curated list of open-source projects that automate scientific research — from literature review to idea generation, experiment execution, paper writing, and peer review.
 
 **📅 Star counts last verified: 2026-03-16**
