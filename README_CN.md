@@ -73,7 +73,7 @@
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | <img src="https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=for-the-badge" height="36"> | 自研（YAML 配置驱动），面向研究场景 | OpenAI (GPT-4o), Anthropic (Sonnet 4, Claude 3.7)；可配置 | 普林斯顿出品。将 LLM 转化为修复真实 GitHub Issue 的软件工程智能体。开创 SWE-Bench 基准。 |
 | [PaperBanana](https://github.com/dwzhu-pku/PaperBanana) | <img src="https://img.shields.io/github/stars/dwzhu-pku/PaperBanana?style=for-the-badge" height="36"> | Streamlit, OpenRouter | OpenAI, Anthropic, Gemini（经 OpenRouter） | 参考驱动的多智能体学术插图生成框架。5 个专用 agent（检索、规划、风格、可视化、评审）生成出版级插图。 |
 | [MLE-agent](https://github.com/MLSysOps/MLE-agent) | <img src="https://img.shields.io/github/stars/MLSysOps/MLE-agent?style=for-the-badge" height="36"> | Python, Kaggle 集成, arXiv, Papers with Code | OpenAI, Anthropic Claude, Ollama (Llama3), Mistral | ML 工程与研究的智能伴侣。集成 arXiv 和 Papers with Code，提供更好的代码/研究计划。自动调试。 |
-| [AIDE](https://github.com/WecoAI/aideml) | <img src="https://img.shields.io/github/stars/WecoAI/aideml?style=for-the-badge" height="36"> | Python, Streamlit, Docker | OpenAI (GPT-4-turbo/4o), Anthropic Claude, Gemini, Ollama（本地） | AI 驱动的代码空间探索。LLM agent 通过树搜索编写、评估和改进 ML 代码。Kaggle 奖牌数是最佳线性 agent 的 4 倍。 |
+| [AIDE](https://github.com/WecoAI/aideml) | <img src="https://img.shields.io/github/stars/WecoAI/aideml?style=for-the-badge" height="36"> | Python, Streamlit, Docker | OpenAI (GPT-4-turbo/4o), Anthropic Claude, Gemini, Ollama（本地） | AI 驱动的代码空间探索。LLM agent 通过树搜索编写、评估和改进 ML 代码。[[论文]](https://arxiv.org/abs/2502.13138) Kaggle 奖牌数是最佳线性 agent 的 4 倍。托管平台：[Weco AI](https://weco.ai)。 |
 
 ## 🔧 研究 Skills 与插件合集
 
